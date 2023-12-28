@@ -1,0 +1,4 @@
+"0","# cleaning"
+"0",""
+"0","data <- data %>% "
+"0","  select(-Zeitstempel)"
